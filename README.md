@@ -6,7 +6,7 @@
 <div align="center"> 
 
 ### A Guy Who Loves Programming of All Kinds
-🔭 I’m currently working on content for clubs I'm involved in and my project for FBLC's Coding & Programming Competition.
+🔭 I’m currently working on unique, spontaneous projects!!
 
 🧠 I'm well-versed with JavaScript, TypeScript, React, Python, and Java.
 
